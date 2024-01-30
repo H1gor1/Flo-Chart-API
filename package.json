@@ -1,0 +1,18 @@
+{
+  "name": "flo-chart-api",
+  "version": "1.0.0",
+  "description": "Flo Music Chart API",
+  "repository": "https://github.com/H1gor1/",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Higor Gabriel <higorgabrieldev@gmail.com> (https://github.com/H1gor1/)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "https": "^1.0.0"
+  }
+}
